@@ -32,3 +32,6 @@ Edit:
 Surprise surprise, AWS deployment failed cause of Node version (which was irritating to fix). 
 Tested it in Vercel and it deployed immediately.
 Skill issue (for me)
+
+Hosted on awstesting.vercel.app
+contact me if you want to visit an empty site (y)
