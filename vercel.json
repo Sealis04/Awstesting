@@ -2,7 +2,7 @@
     "git":{
         "deploymentEnabled":{
             "main":false,
-            "subbranch":true
+            "subbranch":false
         }
     }
 }
